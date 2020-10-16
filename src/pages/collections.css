@@ -1,0 +1,54 @@
+.forcol
+{
+  width: 100%;
+  margin-bottom: 20px;
+  height: auto;
+  display: inline-block;
+  margin-bottom: 50px;
+
+}
+
+
+
+.colbutton
+{
+  border-radius: 0px 20px 20px 0px;
+
+  height: 41px;
+  border-width:2px;
+  border-style:solid;
+  padding:4px;
+  font-size:17px;
+  text-align:center;
+  color:#ffffff;
+  box-shadow: 1px 4px 4px 0px rgba(18,18,31,.75);
+  background-color: #1E1F25;
+  border-color: #1E1F25;
+
+}
+
+.colbutton:hover {
+	background-color:#ccc2a6;
+  cursor: pointer;
+}
+
+.colopperations
+{
+  margin-left: 60px;
+  border-radius: 20px;
+  height: 41px;
+  border-width:2px;
+  border-style:solid;
+  padding:4px;
+  font-size:17px;
+  text-align:center;
+  color:#ffffff;
+  box-shadow: 1px 4px 4px 0px rgba(18,18,31,.75);
+  background-color: #1E1F25;
+  border-color: #1E1F25;
+}
+
+.colopperations:hover {
+	background-color:#ccc2a6;
+  cursor: pointer;
+}

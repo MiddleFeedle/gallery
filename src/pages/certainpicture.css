@@ -1,0 +1,51 @@
+
+.image
+{
+  max-width: 1000px;
+  max-height: 800px;
+}
+
+
+.info
+{
+  text-align: center;
+  background-color: #1E1F25;
+  color: white;
+box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);}
+
+.tag
+{
+  color: white;
+  text-decoration: none;
+
+}
+
+.tag:hover
+{
+  color: #ccc2a6;
+
+}
+
+.showpicture {
+  text-align: center;
+}
+
+.sendbutton
+{
+  margin: 10px;
+  border-color: #24252d;
+  background-color:#24252d;
+  border-radius:29px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:18px;
+  font-weight:bold;
+  padding:16px 50px;
+  text-decoration:none;
+}
+
+.sendbutton:hover {
+	background-color:#ccc2a6;
+}
